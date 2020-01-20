@@ -17,15 +17,14 @@ var i = 0,
     isParagraph = false;
 
 var textArray = [
-  "creative", 
-  "passionate",
-  "detailed",
-  "innovative",
-  "determined"
+  "cosmic",
+  "stellar",
+  "extraordinary", 
+  "otherworldly"
 ];
 
 var speedForward = 100,
-    speedWait = 1750, 
+    speedWait = 2000, 
     speedBackspace = 100; 
 
 //Invoke function
