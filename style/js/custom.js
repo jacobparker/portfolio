@@ -17,10 +17,10 @@ var i = 0,
     isParagraph = false;
 
 var textArray = [
-  "cosmic",
-  "stellar",
-  "extraordinary", 
-  "otherworldly"
+  "dedication",
+  "inspiration",
+  "passion", 
+  "motivation"
 ];
 
 var speedForward = 100,
