@@ -17,10 +17,10 @@ var i = 0,
     isParagraph = false;
 
 var textArray = [
-  "dedication",
-  "inspiration",
-  "passion", 
-  "motivation"
+  "an engineer",
+  "an inventor",
+  "a developer", 
+  "a designer"
 ];
 
 var speedForward = 100,
