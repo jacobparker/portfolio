@@ -102,7 +102,7 @@ header .navbar {
 	outline: none;
 }
 .navbar .navbar-brand h2 {
-	color: #fff;
+	color: #02080F;
 	text-transform: uppercase;
 	font-size: 24px;
 	font-weight: 700;
@@ -129,7 +129,7 @@ header .navbar {
 	font-size: 15px;
 	font-weight: 500;
 	letter-spacing: 0.5px;
-	color: #fff;
+	color: #02080F;
 	transition: all 0.5s;
 	margin-top: 5px;
 }
@@ -138,7 +138,7 @@ header .navbar {
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show>.nav-link {
-	color: #fff;
+	color: #02080F;
 	padding-bottom: 25px;
 	border-bottom: 3px solid #0069AD;
 }
@@ -175,8 +175,8 @@ header .navbar {
 .banner-item-01 {
 	/*padding: 300px 0px;*/
 	/*background-image: url(../images/banner.jpg);*/
-	background: radial-gradient(ellipse at center, #061a33 0%, #000 100%);
-	background-color: #02080F;
+	/*background: radial-gradient(ellipse at center, #061a33 0%, #000 100%);*/
+	/*background-color: #02080F;*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: relative;
@@ -204,7 +204,7 @@ header .navbar {
 }
 
 .banner .text-content h2 {
-	color: #fff;
+	color: #02080F;
 	font-size: 62px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
