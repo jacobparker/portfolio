@@ -175,8 +175,8 @@ header .navbar {
 .banner-item-01 {
 	/*padding: 300px 0px;*/
 	/*background-image: url(../images/banner.jpg);*/
-	/*background: radial-gradient(ellipse at center, #061a33 0%, #000 100%);*/
-	background-color: #061a33;
+	background: radial-gradient(ellipse at center, #0a2a52 0%, #02070f 100%);
+	/*background-color: #061a33;*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: relative;
